@@ -1,3 +1,3 @@
 # SwiftCLIToolTemplate
 
-A description of this package.
+> the simple swift cli tool template.
