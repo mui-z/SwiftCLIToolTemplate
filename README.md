@@ -1,3 +1,3 @@
 # SwiftCLIToolTemplate
 
-> the simple swift cli tool template.
+the simple swift cli tool template.
