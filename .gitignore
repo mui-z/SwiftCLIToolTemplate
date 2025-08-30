@@ -130,3 +130,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 
+.kiro/
+.home/
